@@ -4,10 +4,10 @@
 # ;urbrkdn
 # laeuigdb
 # ];uwrsbdn
-# d=101010
-# e=type(d)
-# print(e)
-# print(d)
+d=101010
+e=type(d)
+print(e)
+print(d)
 
 print("""Hellow \" world""")
 
@@ -106,7 +106,7 @@ def gcd6(m,n):
 
 s=7**1
 r=int(s)
-#print(s)
+print(r)
 
 def divides(m,n):
     if n%m==0:
